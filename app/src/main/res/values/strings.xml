@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListaKeckes</string>
+    <string name="title">Programming Languages</string>
+    <string name="link">Link</string>
+    <string name="details">Details</string>
+    <string name="share">Share</string>
+    <string name="wb">Welcome back!</string>
+    <string name="share_message">Share content?</string>
+    <string name="confirm">Accept</string>
+    <string name="cancel">Cancel</string>
+</resources>
